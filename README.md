@@ -1,8 +1,7 @@
-A Python Developer based in Manaus, Amazonas, Brazil.
+# Python Developer with solid experience in process automation (RPA) and data analysis for the industrial sector. I have advanced skills in Python and practical experience with Agile methodologies (SCRUM).
 
 🔹 **Contact:** [devthaynacosta@gmail.com](mailto:devthaynacosta@gmail.com) | [LinkedIn](https://www.linkedin.com/in/thaynabeatriz)  
 
-Python Developer with solid experience in process automation (RPA) and data analysis for the industrial sector. I have advanced skills in Python and practical experience with Agile methodologies (SCRUM).
 ---
 
 ### Languages and Tools:
