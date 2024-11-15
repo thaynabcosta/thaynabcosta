@@ -13,6 +13,7 @@
 ![SCRUM](https://img.shields.io/badge/SCRUM-2496ED?style=for-the-badge&logo=scrum&logoColor=white)
 ![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-2A003A?style=for-the-badge&logo=qlik&logoColor=white)
 ![BotCity](https://img.shields.io/badge/BotCity-0A9396?style=for-the-badge&logo=robot-framework&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
 ### GitHub Stats
