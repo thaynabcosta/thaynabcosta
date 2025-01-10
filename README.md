@@ -14,6 +14,8 @@
 ![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-2A003A?style=for-the-badge&logo=qlik&logoColor=white)
 ![BotCity](https://img.shields.io/badge/BotCity-0A9396?style=for-the-badge&logo=robot-framework&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
 
 ### GitHub Stats
