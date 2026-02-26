@@ -8,15 +8,9 @@
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SCRUM](https://img.shields.io/badge/SCRUM-2496ED?style=for-the-badge&logo=scrum&logoColor=white)
-![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-2A003A?style=for-the-badge&logo=qlik&logoColor=white)
 ![BotCity](https://img.shields.io/badge/BotCity-0A9396?style=for-the-badge&logo=robot-framework&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### GitHub Stats
 ![Thayná's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaynabcosta&show_icons=true&theme=radical)
