@@ -33,8 +33,6 @@
 | Project | Description | Tech |
 |---|---|---|
 | [bot-cotacoes](https://github.com/thaynabcosta/bot-cotacoes) | Bot that tracks currency exchange rates daily | BotCity, Python |
-| 🔜 coming soon | Price monitor bot for e-commerce | BotCity, Python |
-| 🔜 coming soon | Automated PDF report generator | Python, Pandas |
 
 ---
 
