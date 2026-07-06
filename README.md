@@ -2,15 +2,21 @@
 <h3 align="center">Python Developer · RPA Specialist · Manaus, Brazil</h3>
 
 <p align="center">
-  Python developer with hands-on experience building RPA solutions with BotCity
-  for the industrial sector. Passionate about automating repetitive processes,
-  reducing human error, and delivering real business value through code.
-  Currently seeking my first CLT position as a Python/RPA Developer.
+  Python Developer with hands-on experience building RPA solutions using BotCity
+  and developing responsive web interfaces with HTML, CSS and JavaScript.
+  Passionate about solving problems through automation and creating clean,
+  user-friendly applications. Currently seeking my first CLT opportunity as a
+  Python/RPA Developer.
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
+
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Automation & RPA**
 ![BotCity](https://img.shields.io/badge/BotCity-00C853?style=for-the-badge)
@@ -32,20 +38,27 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [bot-cotacoes](https://github.com/thaynabcosta/bot-cotacoes) | Bot that tracks currency exchange rates daily | BotCity, Python |
+| [Gym Consulting Landing Page](https://github.com/thaynabcosta/gym-consulting-landing) | Responsive landing page developed for a personal training consultancy, featuring a mobile-first layout, reusable components, and modern UI design. | HTML5, CSS3, JavaScript |
+| [bot-cotacoes](https://github.com/thaynabcosta/bot-cotacoes) | Bot that tracks currency exchange rates daily through automation. | Python, BotCity |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thaynabcosta&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynabcosta&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=thaynabcosta&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynabcosta&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="170"
+  />
 </p>
 
 ---
 
 ## 📬 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-PERFIL-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaynabeatriz/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devthaynacosta@gmail.com)
